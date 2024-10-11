@@ -13,3 +13,7 @@ body {
 div.links {
     text-align: right;
 }
+
+h1 { 
+    padding-top: 20px;
+}
