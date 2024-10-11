@@ -10,5 +10,11 @@ body {
     border-top: 20px solid #50a8eb
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 
