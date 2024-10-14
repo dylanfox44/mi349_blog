@@ -10,6 +10,15 @@ body {
     border-top: 20px solid #50a8eb
 }
 
+.content section {
+    flex-grow: 1;
+    flex-basis: 0;
+    background-color: rgb(80 168 235 / 0.5);
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .center {
     display: block;
     margin-left: auto;
