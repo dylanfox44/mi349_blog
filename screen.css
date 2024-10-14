@@ -10,7 +10,7 @@ body {
     border-top: 20px solid #50a8eb
 }
 
-.content section.containers{
+.content section {
     flex-grow: 1;
     flex-basis: 0;
     background-color: rgb(80 168 235 / 0.5);
