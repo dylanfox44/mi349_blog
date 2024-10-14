@@ -19,10 +19,10 @@ body {
 }
 
 .details section {
+    opacity: 0.5;
     flex-grow: 1;
     flex-basis: 0;
     background: #50a8eb;
-    opacity: 0.4;
     border-radius: 20px;
     width: 500px; 
     margin-left: auto;
