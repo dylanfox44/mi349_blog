@@ -20,6 +20,10 @@ body {
     width: 1200px;
 }
 
+.content article p{
+    margin: 20px;
+}
+
 .center {
     display: block;
     margin-left: auto;
