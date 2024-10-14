@@ -22,6 +22,7 @@ body {
 
 .content article p{
     margin: 20px;
+    line-height: 1.4em;
 }
 
 .center {
@@ -45,6 +46,7 @@ body {
 
 .details section p {
     margin: 20px;
+    line-height: 1.4em;
 }
 
 
