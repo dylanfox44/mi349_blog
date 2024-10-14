@@ -10,6 +10,10 @@ body {
     border-top: 20px solid #50a8eb
 }
 
+.links {
+    text-align: center;
+}
+
 .content article {
     flex-grow: 1;
     flex-basis: 0;
