@@ -64,7 +64,8 @@ h2 {
     width: 700px; 
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .details section p {
