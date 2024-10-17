@@ -10,6 +10,10 @@ body {
     border-top: 20px solid #50a8eb
 }
 
+h1 {
+    text-align: center; 
+}
+
 .links {
     text-align: center;
     padding-bottom: 10px;
