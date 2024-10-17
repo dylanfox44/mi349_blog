@@ -56,7 +56,7 @@ h2 {
     padding-top: 10px;
 }
 
-.details section {
+.details {
     flex-grow: 1;
     flex-basis: 0;
     background-color: rgb(80 168 235 / 0.5);
