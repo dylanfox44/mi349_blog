@@ -24,8 +24,18 @@ h2 {
 }
 
 .links {
-    text-align: center;
-    padding-bottom: 10px;
+   position: -webkit-sticky;
+   position: sticky;
+   text-align: center;
+   padding-bottom: 10px;
+   top: 0;
+}
+
+.content {
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    gap: 20px;
 }
 
 .content article {
